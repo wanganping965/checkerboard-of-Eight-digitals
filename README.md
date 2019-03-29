@@ -1,7 +1,7 @@
 # checkerboard-of-Eight-digitals
   ### achieve function with A* algorithm in python, UI with tkinter package to draw
 
-# file function:
+# py file function:
 ## 1 full_arrage.py: the eight digitals code problem is that ,you can give a random sequence consisted of 1,2,3,4,5,6,7,8,0,
 and the char '0' is stands for the space position in the 3*3 checkerboard.
 in order to get a random seqence, i firstly generated all the posible sequence.
@@ -20,6 +20,9 @@ the py's input is firstly stored to the eight.txt
 you can input your expected sequence in the input field,but you need to click the "confirm input" button to check whether 
 the input is valid.
 Also you can click the Run to random generate a valid start sequence to see its effect.
+
+# Hint
+# the fianl status is [[1,2,3],[4,5,6],[7,8,0]] in the 3*3 checkerboard
 
 ** Thanks !
 good luck to everyone! **
